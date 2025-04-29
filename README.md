@@ -1,4 +1,5 @@
 # EPNAI
+![EPNAI](https://github.com/user-attachments/assets/1e76b447-9355-47d1-82b3-c518328fa6e1)
 
 ## The Decentralized Intelligence Layer for Crypto
 
