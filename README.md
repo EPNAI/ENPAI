@@ -1,6 +1,7 @@
 # Liminai
 
-![Liminai](https://github.com/user-attachments/assets/1e76b447-9355-47d1-82b3-c518328fa6e1)
+![liminai](https://github.com/user-attachments/assets/e5dfb4f5-273c-4b45-a84e-77e3e3da4977)
+
 
 ## The Decentralized Intelligence Layer for Crypto
 
